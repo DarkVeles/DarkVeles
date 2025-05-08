@@ -12,10 +12,10 @@ Here you can find projects related to NLP, predictive modeling, and workflow opt
 - **Automation:** PDF processing, Excel automation  
 
 ## 📂 Projects
-- **🧠 [RuBERT Text Classification](https://github.com/DarkVeles/NLP-Toxic-Comments-Classification)**  
+- **🧠 [NLP-Toxic-Comments-Classification](https://github.com/DarkVeles/NLP-Toxic-Comments-Classification)**  
   Fine-tuning RuBERT on **RTX 4080** for Russian text classification.  
 
-- **🔢 [Project 2 – TBD](https://github.com/DarkVeles/Project2)**  
+- **🔢 [HR-Turnover-Prediction]([https://github.com/DarkVeles/Project2](https://github.com/DarkVeles/HR-Analytics-Employee-Turnover))**  
   [Short description of the second project]  
 
 - **📜 [RKD Automation](https://github.com/DarkVeles/RKD-automation) (WIP)**  
