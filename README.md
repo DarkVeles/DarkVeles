@@ -15,7 +15,7 @@ Here you can find projects related to NLP, predictive modeling, and workflow opt
 - **🧠 [NLP-Toxic-Comments-Classification](https://github.com/DarkVeles/NLP-Toxic-Comments-Classification)**  
   Fine-tuning RuBERT on **RTX 4080** for Russian text classification.  
 
-- **🔢 [HR-Turnover-Prediction]([https://github.com/DarkVeles/Project2](https://github.com/DarkVeles/HR-Analytics-Employee-Turnover))**  
+- **🔢 [HR-Turnover-Prediction](https://github.com/DarkVeles/HR-Analytics-Employee-Turnover)**  
   [Short description of the second project]  
 
 - **📜 [RKD Automation](https://github.com/DarkVeles/RKD-automation) (WIP)**  
