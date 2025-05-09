@@ -19,7 +19,7 @@ Here you can find projects related to NLP, predictive modeling, time series fore
   Predicting employee satisfaction and turnover using machine learning.  
   This project helps HR departments optimize workforce management by identifying employees at risk of leaving.  
 
-- **🚖 [Taxi-Demand-Forecasting](https://github.com/DarkVeles/Taxi-Demand-Forecasting)**  
+- **🚖 [Taxi-Demand-Forecasting](https://github.com/DarkVeles/Taxi-Demand-Forecasting-)**  
   Time-series forecasting model to predict taxi demand in airport zones.  
   Helps optimize driver distribution during peak hours and reduce passenger waiting times.
 
